@@ -1,7 +1,9 @@
 Instructions to play my game!
 
-1. Download the python notebook (blackjack_final__.ipynb)
-2. Once downloaded, go to google colab, and open the downloaded file
+1. Follow this link to access my colab notebook for my project: [Colab Notebook](https://colab.research.google.com/drive/1SVcJYwaiz9kUGmU89egMMpUWSuOcAZ87?usp=sharing)  
+2. Create a copy of this notebook in order to run the cells yourself.
 3. When you're in the notebook, scroll all the way to the bottom cell (it will have `blackjack_simulate()` typed in)
 4. Go to the runtime tab and press "run all"
 5. Have fun playing blackjack!
+
+(If this doesn't work, then look in my github repository: ([Folder containing code file](files/blackjack_final__.ipynb). From there you can download the file and upload it to google colab to access it.)
